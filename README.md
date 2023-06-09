@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, My name is Daniel</h1>
+<h1 align="center">Hi 👋, My name is Danny</h1>
 <h3 align="center">A passionate Full-Stack Developer from NYC</h3>
 
-- 🌱 I’m currently learning **React and Go**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React, Go, and PHP**
+- 💬 Ask me about **Go**
 
 - 📫 How to reach me **dbueno3@buffalo.edu**
 
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbueno3&show_icons=true&locale=en" alt="dbueno3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbueno3&" alt="dbueno3" /></p>
