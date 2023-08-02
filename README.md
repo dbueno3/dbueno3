@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from NYC</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbueno3" alt="dbueno3" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Webpage**
 
 - 🌱 I’m currently learning **FoalTS**
